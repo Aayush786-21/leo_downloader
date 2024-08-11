@@ -52,34 +52,6 @@ best: Highest quality available.
 highest: Best audio quality and video quality.
 lowest: Lowest quality available.
 144p, 360p, 720p, 1080p: Specific resolutions (adjustments may be needed based on available formats).
-Contributing
-
-
-If you want to contribute to this project, follow these steps:
-
-Fork the Repository
-
-Create a New Branch
-
-bash
-Copy code
-git checkout -b feature/your-feature
-Make Your Changes
-
-Commit Your Changes
-
-bash
-Copy code
-git add .
-git commit -m "Add your message here"
-Push to the Branch
-
-bash
-Copy code
-git push origin feature/your-feature
-Create a Pull Request
-
-Go to the original repository and create a pull request with a description of your changes.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
